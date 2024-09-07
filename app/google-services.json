@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482436875733",
+    "project_id": "chuajohn-me3",
+    "storage_bucket": "chuajohn-me3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482436875733:android:1ccea68be549321269695c",
+        "android_client_info": {
+          "package_name": "com.example.chuajohn_me3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi8bF0fO-cq_Ep1oLSlnV37_onk5j8rMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
